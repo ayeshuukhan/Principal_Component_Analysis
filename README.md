@@ -3,9 +3,7 @@
 
 This repository demonstrates how to perform **Principal Component Analysis (PCA)** on a dataset, visualize the principal components, and understand the data's spread and variance directions.
 
----
-
-## 📌 Project Overview
+## Overview
 
 PCA is a **dimensionality reduction** technique used in machine learning and data analysis.
 In this project:
@@ -14,14 +12,12 @@ In this project:
 * Visualized the **principal components**.
 * Understood the **spread and variance** in data using projections.
 
----
 
-## 📂 Dataset
+## Dataset
 
 * The dataset used here is a sample dataset with multiple features.
 * PCA was applied after preprocessing to extract meaningful **patterns**.
 
----
 
 ## ⚙️ Steps Performed
 
@@ -30,34 +26,30 @@ In this project:
 3. **Visualization** – Plotted the principal components for better understanding.
 4. **Interpretation** – Analyzed directions of maximum variance in the data.
 
----
 
-## 🖼️ Visualization
+## 🖼Visualization
 
 The output includes a **2D visualization** of the first two principal components showing the data spread along maximum variance directions.
 
----
 
-## 📦 Libraries Used
+
+## Libraries Used
 
 * `numpy`
 * `matplotlib`
 * `scikit-learn`
 
----
 
-## 📊 Results & Insights
+## Results & Insights
 
 * PCA helped us understand the **main variance directions** in the data.
 * Reduced dimensions without losing significant information.
 * Useful for **visualization, noise reduction, and further ML tasks**.
 
----
 
-## 🔮 Future Scope
+## Future Scope
 
 * Apply PCA on real-world datasets.
 * Use PCA for **image compression** or **ML preprocessing**.
 
----
 
